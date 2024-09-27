@@ -4,9 +4,12 @@ github account has my name, date of birth and email, that should be about it.
 created an empty reposirtory with a readme file
 created an empty repository on the github website and cloned it onto my desktop github
 
+# About Me
 
-(H1) About Me 
-(H2)My Interests
-Bjj, Wrestling, UFC, Shoes specifically relating to wrestling and bhoxing because theyre the same stykle
-(H2)Websites I Recommend
-sflix.to with a really good adblocker, and any website that you can buy really nice wrestling shoes off of.
+## My Interests
+I am interested in wrestling, Brazilian Jiu-Jitsu, the world of combat sports and most importantly the people that compete in them. 
+
+## Website Recommendations
+    - sflix.to - This website allows you to watch any movie or show you want for free, yet you must ensure that you use a strong ad blocker or you will be closing pop ups for a long time.
+
+    - athleteps.com - This website is the main place I go to to buy any wrestling shoes that i'm interested in, the shipping is cheap and is incredibly fast.
