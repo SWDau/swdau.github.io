@@ -24,3 +24,8 @@
         </body>
     </function>
 </flowgorithm>
+
+```mermaid
+flowchart TD
+Start([Start]) --> End([End])
+```
