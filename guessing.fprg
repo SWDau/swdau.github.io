@@ -1,3 +1,4 @@
+
 <?xml version="1.0"?>
 <flowgorithm fileversion="4.2">
     <attributes>
@@ -12,16 +13,15 @@
         <parameters/>
         <body>
             <declare name="RandomNumber" type="Integer" array="False" size=""/>
-            <declare name="userguess" type="Integer" array="False" size=""/>
+            <declare name="UserGuess" type="Integer" array="False" size=""/>
             <assign variable="RandomNumber" expression="Random(10)"/>
-            <output expression="&quot;enter a number between 0-9&quot;" newline="True"/>
+            <output expression="&quot;Enter a number between 0-9&quot;" newline="True"/>
             <input variable="UserGuess"/>
             <while expression="UserGuess &lt;&gt; RandomNumber">
-                <output expression="&quot;enter a number between 0-9&quot;" newline="True"/>
+                <output expression="&quot;Incorrect! Try again: Enter a number between 0-9&quot;" newline="True"/>
                 <input variable="UserGuess"/>
             </while>
             <output expression="&quot;Correct! Thank you for playing!&quot;" newline="True"/>
         </body>
     </function>
 </flowgorithm>
-
